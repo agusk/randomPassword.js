@@ -1,0 +1,6 @@
+{
+    "name": "RandomPassword.js",
+    "description": "Generating random password using node.js",
+    "version": "0.1.0",
+    "private": true
+}
