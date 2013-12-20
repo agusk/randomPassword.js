@@ -1,3 +1,5 @@
+// Agus Kurniawan - agusk2007@gmail.com
+//
 // this is a code modification from
 // http://jaspreetchahal.org/php-random-password-generator-function/
 
