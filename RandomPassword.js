@@ -33,6 +33,7 @@ var randomPass = function(length) {
         randomCode = randomCode + specialCharacters[index];
     }
 
+    // random the result value
     var str = randomCode;
     var newStr = '';
     var n = randomCode.length;
